@@ -1,0 +1,6 @@
+__pycache__
+*.npz
+*.pkl
+/data/
+/engine/data/
+/transfer_data/
